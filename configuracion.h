@@ -22,7 +22,7 @@ using namespace std;
 // Cuantas cargas tiene el negocio: 1 critica + 2 aplazables
 #define MAX_CARGAS 3
 // Semilla de rand(): misma semilla, mismos precios
-#define SEMILLA 2026
+#define SEMILLA 7
 
 // =============================================================
 // CONSTANTES DEL NEGOCIO (si cambia el negocio, solo se cambia este bloque)
